@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scanbracode</string>
+    <string name="open_scan">เปิดสแกน QrCode</string>
+</resources>
